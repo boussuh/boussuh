@@ -23,4 +23,4 @@ I’m interested in full-stack software engineering, systems programming, and em
 
 ## Contact
 - GitHub: https://github.com/boussuh
-- Email: fatounarseck123@gmail.comil.com  
+- Email: bousso.work@gmail.com  
